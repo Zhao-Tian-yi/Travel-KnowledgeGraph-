@@ -1,0 +1,2 @@
+EARTH_RADIUS = 6378.137
+pi=3.14
