@@ -1,3 +1,3 @@
-# KnowledgeGraph
+# 旅行知识图谱-Travel_KnowledgeGraph
 Knowledge graph final project\
-data from 去哪儿网
+数据来源:去哪儿网
